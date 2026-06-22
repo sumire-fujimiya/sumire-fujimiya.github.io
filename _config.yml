@@ -1,0 +1,22 @@
+title: すみれの雑記帳
+description: 思ったこと、考えたこと、日々のこと。
+url: "https://sumire-fujimiya.github.io"
+baseurl: ""
+
+theme: minima
+
+author:
+  name: すみれ
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+plugins:
+  - jekyll-feed
