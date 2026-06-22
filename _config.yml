@@ -1,11 +1,11 @@
-title: すみれの雑記帳
+title: すみれふの雑記帳
 description: 思ったこと、考えたこと、日々のこと。
 url: "https://sumire-fujimiya.github.io"
 baseurl: ""
 
 theme: minima
 
-author: すみれ
+author: すみれふ
 
 defaults:
   - scope:
